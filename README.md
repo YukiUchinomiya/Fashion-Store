@@ -4,7 +4,7 @@
 
 cd Django_project
 
-source ./venv/bin/activate
+source ./dev/bin/activate
 
 cd fashionstore
 
